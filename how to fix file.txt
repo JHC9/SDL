@@ -13,3 +13,5 @@ we will realise that the file should be a jpeg file with the signature and exten
 Hence, use hexeditor to correct the wrong signature.
 Then ctrl x to save it.
 This will then fix the file
+
+You can try to edit the signature of corruptedfile.jpg using hexeditor and it should output the fixedFile.jpg image 
