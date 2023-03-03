@@ -16,5 +16,5 @@ This will then fix the file
 
 You can try to edit the signature of corruptedfile.jpg using hexeditor and it should output the fixedFile.jpg image 
 
-using binwalker to find hidden files:  binwalk <sourcefile>
-                   extract the files:  binwalk --dd=".*"
+using binwalker to find hidden files:  binwalk <file>
+                   extract the files:  binwalk --dd=".*"  <file>
