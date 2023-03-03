@@ -1,0 +1,3 @@
+Code used to hide a file in a file
+First move the 2 files into desktop, then in cmd cd to desktop, and use (copy /b source-image.jpg + filetohide.zip newfilename.jpg)
+To extract the hidden file: change extension of newfile to zip then extract it
